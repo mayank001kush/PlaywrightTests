@@ -1,0 +1,14 @@
+{
+    "username": "mayank001kush@email.com",
+    "password": "admin@123",
+    "name": "Mayank",
+    "interest": ["Playwright","Jenkins","Selenium","AWS","RestAssured","Amazon","Java","LoadRunner"],
+    "gender": "Male",
+    "address":
+    {
+        "area": "Maholi",
+        "city":"Mathura",
+        "pincode":281001
+
+    }
+}
